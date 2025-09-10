@@ -16,7 +16,7 @@
 ---
 
 ## 📫 Como me encontrar  
-- 💼 LinkedIn: www.linkedin.com/in/alexia-calabar](https://www.linkedin.com/in/alexia-calabar/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/alexia-calabar](https://www.linkedin.com/in/alexia-calabar/)  
 - 📧 Email: **alexiacalabar2007@gmail.com**  
 
 ---
