@@ -1,8 +1,9 @@
 # 👋 Olá, eu sou Alexia
 
-💻 Desenvolvedora de Software  | Sistemas Web  
+💻 Ciência da Computação  | Sistemas Web  
 🚀 Apaixonado por tecnologia, inovação e criar soluções digitais que fazem diferença.  
-🎯 Experiência com APIs, bancos de dados, automação de processos.  
+🎯 Tenho habilidade em desenvolvimento front-end com foco em estilização e design de interfaces, 
+   bancos de dados, automação de processos.  
 
 ---
 <p align="center">
